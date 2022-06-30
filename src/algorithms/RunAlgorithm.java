@@ -8,6 +8,9 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Map;
 
+/**
+ * A class representing an algorithm to build runs from a list of cards
+ */
 public class RunAlgorithm extends Algorithm {
     private final static int TRAILING_ACE = 14;
     private final static int MAX_CARDS_TO_SIDE = 3;

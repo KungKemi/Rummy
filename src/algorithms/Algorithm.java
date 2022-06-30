@@ -9,6 +9,9 @@ import java.util.List;
 import java.util.Map;
 import java.util.TreeMap;
 
+/**
+ * An abstract class representing a stack-building algorithm.
+ */
 public abstract class Algorithm {
     private final static int JOKER_NUM = 14;
     protected final static int MIN_BOOK_CARDS = 3;

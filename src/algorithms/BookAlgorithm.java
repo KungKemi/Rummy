@@ -7,6 +7,9 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Map;
 
+/**
+ * A class representing an algorithm to build books from a list of cards
+ */
 public class BookAlgorithm extends Algorithm {
 
     /**
